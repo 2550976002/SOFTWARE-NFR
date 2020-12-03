@@ -1,0 +1,30 @@
+Look and Feel	The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.
+Look and Feel	The user interface shall have standard menus buttons for navigation
+Look and Feel	The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports
+Look and Feel	Each page shall contain a navigation menu which shows the index into which the current page is contained.
+Look and Feel	The interface must summarize the data in a fashion that appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface
+Look and Feel	The intranet pages should display appropriately in all resolutions from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.
+Look and Feel	The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.
+Look and Feel	The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.
+Look and Feel	Each page shall contain a similar format with action items in one location and navigation buttons in a different location.
+Look and Feel	The product shall comply with corporate color scheme
+Look and Feel	The website should have an African feel but should not alienate non-Africans. The website should use animation on pages which are describing the services to grab the users attention and encourage them to sign up.
+Look and Feel	The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.
+Look and Feel	The website should appeal to all Africans not only Nigerians.
+Look and Feel	The website design should be modern clean and concise.
+Look and Feel	The product shall comply with corporate User Interface Guidelines
+Look and Feel	The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.
+Look and Feel	The look and feel of the system shall conform to the user interface standards of the smart device.
+Look and Feel	The website shall be attractive to all audiences. The website shall appear to be fun and the colors should be bright and vibrant.
+Look and Feel	The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.
+Look and Feel	When a ship is sunk the product shall simulate the sound of a sinking ship.
+Look and Feel	All screens created as part of the Disputes application must comply with corporate standards for interface creation.
+Look and Feel	When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.
+Look and Feel	The product shall have a consistent color scheme and fonts.
+Look and Feel	The product shall simulate the look of ships at sea.
+Look and Feel	When the offensive player takes a shot the product shall simulate the sound of a ship at sea.
+Look and Feel	The product shall display the grids within a circle as a view from a periscope.
+Look and Feel	The appearance of the product shall appear professional
+Look and Feel	The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.
+Look and Feel	The system shall have a professional appearance
+Look and Feel	The application shall match the color of the schema set forth by Department of Homeland Security

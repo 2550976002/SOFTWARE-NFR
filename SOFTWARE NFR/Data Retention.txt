@@ -1,0 +1,40 @@
+Data Retention	The different data retention policies weigh legal and privacy concerns against economics and need-to-know concerns to determine the retention time, archival rules, data formats, and the permissible means of storage, access, and encryption.
+Data Retention	The storage of call detail records (CDRs) of telephony and internet traffic and transaction data (IPDRs) by governments and commercial organisations.
+Data Retention	A data retention policy is a recognized and proven protocol within an organization for retaining information for operational use while ensuring adherence to the laws and regulations concerning them.
+Data Retention	The objectives of a data retention policy are to keep important information for future use or reference, to organize information so it can be searched and accessed at a later date and to dispose of information that is no longer needed.
+Data Retention	The data retention policies within an organization are a set of guidelines that describes which data will be archived, how long it will be kept, what happens to the data at the end of the retention period (archive or destroy) and other factors concerning the retention of the data.
+Data Retention	It will require telecommunication providers and ISPs to retain telephony, Internet and email metadata for two years, accessible without a warrant, and could possibly be used to target file sharing.
+Data Retention	The retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks.
+Data Retention	The communication provider will retain necessary data such as the location of the mobile communication device for 6 months to 2 years.
+Data Retention	The post office must collect data such as online tracking of mail, special mail records (such as registered, recorded or special delivery postal records), parcel consignment, delivery records and other data.
+Data Retention	The banks are required to retain data on all financial transactions for seven years.
+Data Retention	Data, including location data, on fixed line and mobile telephony must be retained for 24 months. There is no requirement to store the content of calls. Telephony operators must retain a record of all unsuccessful dial attempts.
+Data Retention	Internet service providers must retain all data for at least 12 months. The law does not specify exactly what traffic data must be retained. There is no requirement to store the content of internet communications.
+Data Retention	Under the data protection provisions, service providers are obliged to store traffic data and user data for no less than 365 days, even if they no longer need it to process the communication or to send bills, policy requires user id information, location, tracking data be stored and kept on file for easy access by law enforcement or other authorities who request this information.
+Data Retention	Phone traffic data will be retained for 48 months, but location data does not need to be retained.
+Data Retention	All telecommunication providers to store phone call, text and email metadata, as well as the actual voice recordings for up to 6 months.
+Data Retention	The mobile phone operator must keep the data for incoming and outgoing phone numbers for six months.
+Data Retention	All Internet service providers must keep the data of the e-mail sending or receiving time for six months.
+Data Retention	Digital archiving enables electronic file search, litigation support and regulatory compliance, and facilitates data analysis.
+Data Retention	The data collected by Adobe Analytics will be retained for a specific period of time. Adobe’s retention of this data varies from contract to contract and is outlined in the organization’s data retention policy.
+Data Retention	The data retention policy defines a rolling data retention window time during which you can view and report the completed data.
+Data Retention	If you extend the data retention period beyond the 25-month default retention period, you need to purchase the extension time, which can be extended by one year for each purchase.
+Data Retention	If the Workplace Analytics license is removed from the user, Workplace Analytics will retain the user’s collaboration data collected during the license assignment.
+Data Retention	A database can have multiple retention policies, but each policy must be unique.
+Data Retention	The element-level details of the HTTP page load task will no longer be available after 1 year, but the aggregation time of the loaded page will remain for 3 years.
+Data Retention	We reserve the right to transfer any data we hold about you when we sell or transfer all or part of our business or assets.
+Data Retention	In the case of province, the scanning agent will keep this scanned data for 30 days.
+Data Retention	If the retention time condition specified by the document is not met, it is prohibited to delete the document directly. Although you can no longer delete documents directly, they may still expire.
+Data Retention	In vRealize Network Insight, you can specify how long to retain data.
+Data Retention	Low-resolution metrics have a longer retention period than high-resolution metrics.
+Data Retention	We will only retain your personal data as necessary to achieve the purpose for which we collected it, including meeting any legal, accounting or reporting requirements.
+Data Retention	When a user is placed on statutory retention by the compliance officer, the retention policy will not be applied to user content. The user’s content will be retained until the user is released from the legal retention status.
+Data Retention	Retain Unified Archiving unifies the archiving of email, social media, and mobile communications data, helping records administrators ensure compliance with regulations and address data retention concerns.
+Data Retention	Organizations are obliged to retain all electronically stored information. Respond adequately to any requests from the public for open records of emails, text messages or social media posts.
+Data Retention	In order to protect any emails that may be involved in future litigation, Retain Unified Archiving can mark archived items to completely prevent items from being deleted or manipulated until the litigation reservation is revoked.
+Data Retention	The retention policy defines how many restore points or how many days of data should be retained on the backup storage.
+Data Retention	If you create a backup task that is executed once a day or a backup task whose retention time is less than one day, it is more convenient to set a retention policy by restore point.
+Data Retention	Veeam Cloud Tier can increase long-term data retention cost efficiency by 10 times.
+Data Retention	The "Limit Event Data Retention" response rule action allows you to modify the default event data retention behavior of the detection server.
+Data Retention	Data retention is another major feature of SSDs that all SSD algorithms will consider when they are running.
+Data Retention	The law requires telecommunications and Internet companies to retain customer location and traffic metadata for 6 to 12 months for investigation purposes.

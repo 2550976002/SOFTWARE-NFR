@@ -1,0 +1,52 @@
+Security	User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..
+Security	Every user of the system shall be authenticated and authorized.
+Security	The system shall protect private information in accordance with the organization information policy.
+Security	The system shall prevent malicious attacks including denial of service.
+Security	The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
+Security	The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.
+Security	Only authorized personnel can access customer records in the database.
+Security	Only authorized user shall access the RFS system. ONLY users that exist in the UAS system with the RFS system assigned to their role(s) shall access the RFS system and use it.
+Security	Only managers are able to perform search queries for reservations by user. 100% of all search queries for reservations by user shall be from logons of only management logons.
+Security	Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students?personal information.
+Security	The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.
+Security	Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.
+Security	Only valid data shall be entered into the system. No invalid data shall be entered into the system.
+Security	The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.
+Security	Only administrators can activate a pre-paid card.
+Security	Only authorized personnel can access sales information.
+Security	The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.
+Security	The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user access level. The report will be reviewed for auditing purposes.
+Security	Each team owner will need to use a username and password in order to be authenticated to reach the team owner page
+Security	Only users with Update access must be able to initiate dispute requests.
+Security	Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.
+Security	The Disputes application shall ensure that only authorized users are allowed to logon to the application.
+Security	If a user account is revoked it can only be re-instantiated by the System Administrator.
+Security	The product shall have security.The product shall provide authentication and authorization.
+Security	Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
+Security	The system shall use the organization standard virus protection software to help monitor threats to itself.
+Security	Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.
+Security	The System shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.
+Security	All authorized users once authenticated must be able to logon to the Disputes System
+Security	The system shall reveal private information only in compliance with the organization information policy.
+Security	The streaming server will have anti-virus software to prevent infection of malicious viruses.
+Security	The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.
+Security	All credit card information will be secured on the server and only accessible by authorized Izogn administrators. Information will be encrypted in the database.
+Security	Only registered realtors shall be able to access the system.
+Security	The system shall be built such that it is as secure as possible from malicious interference.
+Security	The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.
+Security	Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.
+Security	Only authorized users shall have access to students?personal information.
+Security	All updates to data files or database must be initiated from the Disputes System.
+Security	The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.
+Security	All customer information will be stored on a secure database accessible only to authorized personnel.
+Security	Only the System Administrator shall be able to reset a revoked user logon account
+Security	All additions of new users and modifications to user access shall be recorded on the User Report.
+Security	Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.
+Security	Only registered customers can purchase streaming movies.
+Security	The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user computer.
+Security	The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.
+Security	The product shall prevent its data from incorrect data being introduced.
+Security	The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts
+Security	The product shall provide players no access to information that might reveal the identity of another player
+Security	The website shall make its user aware of its information practices before collection data from them via a Privacy Policy accessible on all pages of the website.
+Security	The website shall prevent its data from being corrupted when incorrect data is entered in.

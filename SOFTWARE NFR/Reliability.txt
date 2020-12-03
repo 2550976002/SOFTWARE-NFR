@@ -1,0 +1,37 @@
+Reliability	A consumer product in many cases will have a higher resale value, if it fails less often.
+Reliability	Reliability engineering focuses on costs of failure caused by system downtime, cost of spares, repair equipment, personnel, and cost of warranty claims.
+Reliability	Mature type: The ability of software products to avoid failures caused by software failures.
+Reliability	Estimate the potential failure density: measure the number of failures that may occur in the future.
+Reliability	Failure density for test cases: measure how many failures are detected in a certain period.
+Reliability	Failure density: a measure of how many failures are detected in a certain test period.
+Reliability	Failure resolution: Measure how many failures are resolved.
+Reliability	Troubleshooting: Measure how many failures have been corrected.
+Reliability	Mean Time Between Failures (MTBF): A measure of the frequency of failures in software operation.
+Reliability	Test coverage: Measures the test cases executed during the test.
+Reliability	Test maturity: Measure the number of use cases that have actually passed.
+Reliability	Fault tolerance: The ability of a software product to maintain a specified performance level in the event of a software failure or violation of a specified interface.
+Reliability	Avoid crashes: measure the crashes of the entire operating environment caused by the software.
+Reliability	Avoid failure: measure how many failure modes can be controlled to avoid serious failures.
+Reliability	Resist misoperation: Measure how many kinds of abilities to resist misoperation have been achieved.
+Reliability	Recoverability: In the event of failure, the software product's ability to rebuild the specified performance level and recover the directly affected data.
+Reliability	Availability: Measures the availability of the system within a specified time period.
+Reliability	Average downtime: Measure the average time that the system cannot be used before the system is gradually started when a failure occurs.
+Reliability	Average recovery time: Measures the average time it takes to fully recover the system from the initial partial recovery.
+Reliability	Restartability: Measures how often the system can restart within the required time.
+Reliability	Repairability: Measures the self-repairing ability of a software product under abnormal conditions.
+Reliability	Repair effectiveness: measure the effectiveness of software repair capabilities.
+Reliability	Reliability compliance: the ability of software products to comply with reliability standards, conventions, and regulations.
+Reliability	The ability of the software to complete the specified actions of the function description in accordance with the command parameters given by the user within the specified operating phase.
+Reliability	Whether the software divides user rights according to functional modules, whether the division of rights is reasonable, and whether the super user's rights management of each user is reasonable, including modifying the user's login information.
+Reliability	Whether the software verifies the user name and password, whether there are protective measures, especially whether there is a shielding function for the password.
+Reliability	The software does not limit the number of incorrect logins for users. The general practice is to log out of the system with three consecutive failed logins.
+Reliability	Does the software provide operation logs, such as the time a user logs in, the query, modification, or deletion actions, and the time of leaving.
+Reliability	Investigate the prompts and shielding of common misoperations for users, such as whether it can effectively avoid date entry errors or write invalid dates.
+Reliability	When a user makes an operating error or a software error occurs, can there be accurate and clear prompts so that the user can know the cause of the error. For example, when the user fails to enter valid information and saves the file, the system should give a prompt about the unentered item.
+Reliability	Check the stability of the software operation, and whether the software will automatically exit when a general error or a serious error occurs.
+Reliability	Mainly for software that requires data storage. Some software relies on the backup and recovery mechanism of the database operating system itself, which requires users to have a certain operational knowledge; good software will provide backup and recovery operations without the user needing to directly access the database system To proceed.
+Reliability	When the data entered by the user is wrong, the software should be able to judge the validity of the data and avoid the generation of invalid data.
+Reliability	Conduct tests such as power failure during program operation to examine the degree of impact on the data and system; if it is damaged, whether to provide remedial tools and what is the remedial situation.
+Reliability	When the network is disconnected, will it cause data loss.
+Reliability	Use statistical techniques to process software reliability testing and software failure data collected during system operation and evaluate software reliability.
+Reliability	The ability of the product to perform specified functions in a certain period of time and under certain conditions.

@@ -1,0 +1,13 @@
+Maintainability	Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.
+Maintainability	The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.
+Maintainability	Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+Maintainability	New System version releases shall be released at the beginning of each NFL season.
+Maintainability	The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.
+Maintainability	The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.
+Maintainability	New branches/complexes/districts/regions and revenue/expense accounts added to the BDW must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end will be loaded into the RFS system prior to the budget start process.
+Maintainability	The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+Maintainability	The customer shall be able to easily integrate new building maps with the product throughout the product lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.
+Maintainability	The product must be designed using Design Patterns and coding best practices. 90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.
+Maintainability	Promotional updates to the website should take a day to update.
+Maintainability	Changes to revenue and expense formulae must be applied to the RFS system every year prior to the budgeting process start. Revenue and expense formulae will be updated within one week of their receipt after which 2 weeks will be allotted to testing of the budget calculations to be conducted jointly by the project development team and PCG Finance.
+Maintainability	All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation

@@ -1,0 +1,50 @@
+Readability	Doing a good job of code standardization and improving code quality can significantly enhance the readability of the code.
+Readability	Improving the readability of the code can save time and effort for code readers.
+Readability	The code has good readability, and scalability has an important impact on the efficiency of maintaining a software project.
+Readability	Unclear and poorly readable requirements will waste others' precious time trying to understand, communicate, and even waste others' hard work to achieve their wrong understanding.
+Readability	In the process of writing a program, we will declare a lot of variables, and we need to know that the variable declaration and use strategy will affect the readability of the code.
+Readability	If you can maintain your unique style throughout the code you write, it can also positively help the readability of the code.
+Readability	Improving the readability of the code allows people who read the code to quickly understand the purpose of the sub-logic, allowing them to focus on the higher-level main logic without being affected by the implementation of the sub-logic.
+Readability	The high readability of the code can indicate that the person who wrote the code has a clear mind, and it can clearly and efficiently express their thinking and work content in the form of code.
+Readability	Some people think that it is necessary to be readable first, because your code is likely to be read and maintained by others.
+Readability	In the program coding, a unified and standard-compliant writing specification must be formulated. To ensure the readability and easy maintenance of the program. Improve the efficiency of the program.
+Readability	UML modeling is an effective means to establish software development documents. Visually describing system requirements and recording software composition through UML can significantly improve the quality and readability of documents and reduce the workload of writing documents.
+Readability	Good documentation should have good structure and readability, and software development documentation is no exception.
+Readability	Each part of the document can be briefly described using UML diagrams and other graphics or tables to guide readers to grasp the content as soon as possible and understand the interesting parts as soon as possible, so that the entire document can be read in less time.
+Readability	In terms of content, the entire document and each part are arranged in accordance with the requirements of general first, specific later, thereby improving the comprehensibility and readability of the document and making it easier for users and software developers to read.
+Readability	The main risks of software developers include: whether the software development complies with the specifications, whether the program is readable, whether the program bug is within the controllable range, etc.
+Readability	While considering module independence, in order to increase readability, module design should not be too large.
+Readability	In order to make the structure clear and readable, there are usually keywords at the beginning and end of all control structures that may be nested.
+Readability	In order to make the program easy to test and maintain to reduce the total cost of software development, the selected high-level language should have an ideal modular mechanism, as well as a readable control structure and data structure.
+Readability	In order to improve the readability of the program, it is important to choose a name with intuitive meaning so that it can correctly prompt the entity represented by the program object, which is very important to help readers understand the program.
+Readability	The layout of the program code also has a great influence on the readability of the program. The ladder form should be used appropriately to make the logical structure of the program clear and easy to read.
+Readability	When a descriptive statement describes multiple variables, it is best to arrange them in lexicographic order, which not only improves readability, but also improves compilation speed.
+Readability	Improve the efficiency of the program and maintain a good coding style. You should not sacrifice the clarity and readability of the program in pursuit of program efficiency.
+Readability	Using a powerful programming language can control the scale of the program. The stronger the function of the language, the higher the degree of modularity and structure of the generated program, the fewer the number of instructions required, and the better the readability of the program.
+Readability	After Word has checked spelling and grammar and corrected errors, you can choose to display information about the reading level of the document, including a readability score.
+Readability	Each readability test is based on the average number of syllables per word and the number of words per sentence.
+Readability	The higher the score, the better the readability of the document. Generally, a score between 60 and 70 can be considered as a document with good readability.
+Readability	Under "When correcting spelling and grammar in Word," make sure that the "Check grammar with spelling" check box is selected. Select "Show Readability Statistics".
+Readability	Due to the short sentences of this poem, it is considered highly readable.
+Readability	To ensure readability, the proportion of passive sentences should not exceed 10%, otherwise it will make people feel tired or impatient.
+Readability	Coding standards can improve the readability of software and allow programmers to understand new codes as quickly and thoroughly as possible.
+Readability	Construct a data set and learn the parameters of the model from it. The most straightforward method is to use artificially labeled sentence data sets to improve readability.
+Readability	The operating results of the system should be able to be output through the screen, and the output information should be flexibly converted to the screen to improve the readability of the information and the flexibility of operation.
+Readability	Optimizing readability can make the code easier to read and debug, thereby shortening the development cycle and reducing development costs.
+Readability	Tests should be readable so that other programmers can change and add use cases comfortably.
+Readability	Make the code more readable by reducing the number of variables and making them as lightweight as possible.
+Readability	Renaming functions and variables appropriately can increase the readability of the source code.
+Readability	Avoid using complicated ternary operators, do while loops, and goto programming structures that make the code less readable.
+Readability	In order to keep the function readable, it is recommended to avoid returning multiple meaningful values in the function body.
+Readability	When writing an article, you should leave blanks to increase the readability of the article and bring a better reading experience to readers.
+Readability	In writing, we can learn to use typography and design, use readability tools, appropriately use headings or abstracts, and review and revise articles to increase the readability of articles.
+Readability	If you want to have a good reading experience, limit each line of text to about 60 characters. This number of characters can make your content have the right readability.
+Readability	The font you choose should have good readability in different sizes and weights.
+Readability	In order to improve the readability of the document, we should add descriptive text where necessary.
+Readability	To improve readability, first, you need a deep analysis of your text because it relies on a number of things.
+Readability	You can use a large number of WordPress plugins to add readability scores in WordPress posts.
+Readability	Readability analysis tools are a great way to improve content. However, you can take more steps to further improve the readability of your website.
+Readability	Typography plays a very important role in improving readability. If your text is too small and difficult to read, then this will obviously affect the user experience on your website. Even if your content is well written, it is difficult to read.
+Readability	Dale-Chall calculates a readability score based on how many words in the paragraph are not in the simple word list.
+Readability	A comment is an explanation or prompt given to a statement, block, function, etc. by the person writing the program when writing a program, which can improve the readability of the program code.
+Readability	Through meaningful variable names, self-explanatory methods, class names, and clear code structure, we can greatly improve code readability.

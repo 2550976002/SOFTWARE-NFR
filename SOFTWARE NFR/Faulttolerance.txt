@@ -1,0 +1,8 @@
+Faulttolerance	The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.
+Faulttolerance	The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.
+Faulttolerance	The product shall allow the user to view previously downloaded search results CMA reports and appointments.
+Faulttolerance	The website shall continue to operate if the streaming server goes down.
+Faulttolerance	The website shall continue to operate if the payment gateway goes down.
+Faulttolerance	100% of saved user preferences shall be restored when system comes back online.
+Faulttolerance	The product shall operate in offline mode whenever internet connection is unavailable.
+Faulttolerance	The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.

@@ -1,0 +1,31 @@
+Reusability	Think of software as an organism composed of "components" with different functional parts. Each component can be designed as a general tool for completing similar tasks when designing and writing. In this way, if the components for completing various tasks are established, The work of writing a specific software has become a simple problem of organizing and connecting various different components, which has a fundamental change in the final quality and maintenance of the software product.
+Reusability	By writing a large number of public classes, public functions, etc., for developers to use directly.
+Reusability	The function is packaged into components, and one or more sets of API interfaces are provided externally.
+Reusability	In our projects or products, we find a lot of repetitive functional modules, such as user management, organization management, etc. If we pay attention to the scalability when we design these modules, they can be applied to other projects with similar functions.
+Reusability	In project A, you write an Ajax module. After A is completed, project B is started. In B, the module of project A can be reused directly.
+Reusability	Spontaneously copy a written tool function to another function or project.
+Reusability	Combine reusable software components according to certain rules to form a software system or new reusable components.
+Reusability	According to the formal software function description and certain generation mechanism, the generator system actively generates the target program. The reusable component used in this method is the code board of the generator itself or the template hidden in the transformation rule set.
+Reusability	Define one or a group of related modules with relatively independent concepts or functions as a soft component. Can be assembled in any position of the system to reduce workload.
+Reusability	Reusable software components have undergone strict testing during development, and their reliability is relatively high, and some errors will be found and cleared during each reuse process. Over time, such components will become substantially error-free.
+Reusability	Keep the class or module simple and pure, the simpler the software, the more likely it is to be reused. "The simpler, the more complex" is like building blocks. The simpler the blocks provided, the more likely it is to build complex shapes and objects.
+Reusability	Certain parts of a computer program written once can or should be used in the construction of other programs written later.
+Reusability	Programmers can decide to create internal abstractions so that certain parts of their programs can be reused, or they can create custom libraries for their own use.
+Reusability	The same thing is reused many times in different environments without modification or slight modification.
+Reusability	Reusable components are generally more mature and have higher quality assurance than modules used in a single application.
+Reusability	There are common components between different software products.
+Reusability	The common components between different software products have reuse value (that is, it is profitable to reuse them).
+Reusability	In the process of constructing a new software system, a technology that reuses existing software products (design structure, source code, documentation, etc.).
+Reusability	Extract some reusable design components from the design results of the existing system, and apply these components to the design of the new system.
+Reusability	Re-implement all design documents of an existing system on a new hardware and software platform, that is, apply one design to multiple specific implementations.
+Reusability	Independent of any specific application, plan to develop some reusable design components.
+Reusability	Object linking and embedding technology not only supports the definition of components at the source program level to construct a new system, but also makes these components remain independent reusable components at the object code level, which can be flexibly recombined at runtime. Various application systems.
+Reusability	Extract reusable components from the analysis results of existing systems and use them in the analysis of new systems.
+Reusability	With a complete analysis document as input, multiple designs for different software and hardware platforms and other implementation conditions are generated.
+Reusability	Apply a software test case to a new software test, or use it in a new round of testing when the software is modified.
+Reusability	During the testing process, software tools are used to automatically record the process information of the test, including each tester’s operation, input parameters, test cases and operating environment, etc., and apply these process information to a new software test or a new round of Software testing.
+Reusability	Reuse a design model of a software system, which is suitable for software system migration.
+Reusability	Reusing the analysis model of a certain software system is suitable for situations where the user's needs have not changed but the system architecture has changed.
+Reusability	When developing a new software system, the existing software or software modules are reused. The software can be an existing software or a special reusable component.
+Reusability	Use the code that has been written to support new functions or businesses.
+Reusability	Think of software as an organism composed of components with different functional parts, and each component can be designed as a general tool for completing similar tasks when designing and writing.

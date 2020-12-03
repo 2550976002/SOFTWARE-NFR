@@ -1,0 +1,10 @@
+Legal	IzognMovies shall meet the licensing requirements set forth by the appropriate organizations in order to stream African movies.
+Legal	The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.
+Legal	The product shall comply with insurance regulations regarding claims processing.
+Legal	All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.
+Legal	The product shall comply with the estimatics laws relating to recycled parts usage.
+Legal	The System shall meet all applicable accounting standards. The final version of the System must successfully pass independent audit performed by a certified auditor.
+Legal	All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.
+Legal	The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.
+Legal	All actions that modify an existing dispute case must be recorded in the case history.
+Legal	The PHP code will comply with PEAR standards.

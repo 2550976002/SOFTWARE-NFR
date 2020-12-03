@@ -1,0 +1,31 @@
+Robustness	Defensive programming is a form of defensive design intended to ensure the continuing function of a piece of software under unforeseen circumstances. Defensive programming practices are often used where high availability, safety, or security is needed.
+Robustness	Overly defensive programming, however, may safeguard against errors that will never be encountered, thus incurring run-time and maintenance costs. There is also a risk that code traps prevent too many exceptions, potentially resulting in unnoticed, incorrect results.
+Robustness	The system can still show a normal degree under abnormal input or abnormal external environment.
+Robustness	Windows has poor fault tolerance, but its resilience is very good and it is easy to use. Accounted for 90% of the operating system market.
+Robustness	The function will result in undefined behavior when the input is over 1000 characters. Some novice programmers may not feel that this is a problem, supposing that no user will enter such a long input. This particular bug demonstrates a vulnerability which enables buffer overflow exploits. 
+Robustness	The programmer assumes that the user will try to enter wrong, false and malformed content. As a result, programmers will not need to find clear and intuitive error messages for error codes to be returned to users. The error message should be as accurate as possible without misleading the user so that the problem can be resolved easily.
+Robustness	A robust system can tolerate errors in data input, as well as failures of internal components.
+Robustness	This is a measure of whether a system can recover from various error conditions.
+Robustness	A robust system can tolerate data input errors as well as the failure of internal components.
+Robustness	The ability of the software system to operate normally under some abnormal conditions (such as illegal operations by the user, failure of related software and hardware systems, etc.).
+Robustness	If you use the system according to my calling specification, the system will return normally. If you do not use the system according to my calling specification, the system will return an error to you, but the system itself will not go Down.
+Robustness	The software can judge that the input does not meet the specification requirements for the input outside the specification requirements, and can have a reasonable processing method.
+Robustness	Whether the computer software can not crash or crash in the case of input errors, disk failures, network overloads or intentional attacks is the robustness of the software.
+Robustness	This feedback control system has the characteristics of keeping stability, asymptotic regulation and dynamic characteristics unchanged under a certain type of certain uncertain conditions, that is, this feedback control system has the ability to withstand the influence of this type of uncertainty.
+Robustness	The design problem of a feedback control system is to find a controller according to a given control object model to ensure the stability of the feedback control system, so that the feedback control system achieves the desired performance, and is uncertain about model uncertainty and disturbance The sex is robust.
+Robustness	The application is protected against incorrect usage and invalid input, ensuring that it is in the specified state when an unexpected error occurs.
+Robustness	The sensors in the feedback loop may malfunction and cause abnormal information to be fed back. The software should prevent the abnormal information from being processed as normal information and causing the feedback system to lose control.
+Robustness	Before the software processes the input and output information, it should be checked whether it is reasonable (the simplest method is the limit range test). Correctly deal with unreasonable input. Through design, ensure that the input/output meets the accuracy requirements.
+Robustness	The ability of the software to handle input conditions outside the specification requirements. In other words, the ability of the software to operate normally under abnormal conditions.
+Robustness	There is a program that can download a file to a specified path, but this path does not exist, so the program must handle this situation.
+Robustness	It means that when the programmer is designing the program, he assumes from the user's point of view how the user may cause the program to crash, and he must be obsessed with the circumstances under which the program will crash.
+Robustness	The programmer should be very conservative in the program he wrote, and he should be able to freely process the received information.
+Robustness	The user cannot obtain the corresponding class library of the program, nor the internal data structure and the pointer to the data structure.
+Robustness	The system is abnormal due to incorrect input data, which is a robustness problem caused by low fault tolerance.
+Robustness	The operating system crashes and can be used normally after restarting, indicating that it has a certain degree of recovery capability and a certain degree of robustness.
+Robustness	After the database fails, it can generally be restored to a normal state when restarted, and the recovery capability is better.
+Robustness	Robustness testing is to manufacture and simulate abnormal inputs or environments to verify the robustness of software systems or components. 
+Robustness	A software can detect its own internal design or coding errors and get the correct execution results.
+Robustness	A software can infer the correct and reasonable input from the wrong input.
+Robustness	A software can run correctly in different environments.
+Robustness	The software can also run well in unexpected scenarios beyond the designer's imagination.

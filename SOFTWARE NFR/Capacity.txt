@@ -1,0 +1,49 @@
+Capacity	The maximum capacity to process a request when the system is under maximum load or when an indicator reaches the maximum acceptable threshold.
+Capacity	Maximum load status The server CPU usage reached 100%.
+Capacity	The system memory usage reaches the maximum value, reaching the usage limit.
+Capacity	The disk IO latency exceeds the maximum acceptable latency.
+Capacity	Disk usage exceeds the maximum limit.
+Capacity	The network usage rate reaches the upper limit, which is about to exceed the maximum throughput.
+Capacity	Maximum acceptance threshold The number of requests/transactions per second (QPS/TPS).
+Capacity	The response time of the system must reach 99% RT.
+Capacity	The spike service of Meituan APP must be completed within 0.1 second.
+Capacity	A push marketing campaign conducted by an APP has an average daily QPS of 1,000 and a peak QPS of 5,000.
+Capacity	Through the stress test, it is found that a single web server can only withstand 1200 QPS, and cache and database db can withstand concurrency pressure.
+Capacity	When the water level exceeds the warning line, the system needs to be adjusted horizontally or vertically.
+Capacity	The number of requests per second in the system can reach 10,000.
+Capacity	The number of simultaneous requests processed by a single server can reach 100,000.
+Capacity	The processing time from request development to return shall not exceed 0.1 seconds.
+Capacity	We have to do a promotion at night, can the server resist? How many machines do I need if I can’t carry it?
+Capacity	The QPS of the web standalone limit is 1200.
+Capacity	The percentage of CPU spent by user processes must not exceed 90%.
+Capacity	The CPU percentage spent on kernel operations must not exceed 80%.
+Capacity	The memory size of frequently read and written files by cache shall not be greater than 2G.
+Capacity	The buffer size of the read-write disk in the memory must not exceed 3G.
+Capacity	The user feels that the time spent by the software system for its services shall not exceed 3 seconds.
+Capacity	The time for the server to complete the transaction request execution shall not exceed 1 second.
+Capacity	The time it takes for the network hardware to transmit the transaction request and transaction result shall not exceed 5 seconds.
+Capacity	The time spent by the client in constructing the request and displaying the transaction result is very short for ordinary thin-client Web applications and can usually be ignored.
+Capacity	Refers to how many transactions or requests or unit data can be processed by the software system per unit time
+Capacity	The data traffic transmitted on the network per unit time should reach 500T.
+Capacity	Different systems have different requirements for the error rate, but generally it does not exceed 6 per thousand, that is, the success rate is not less than 99.4%.
+Capacity	The CPU utilization rate should be lower than the industry warning value range, that is, less than or equal to 75%.
+Capacity	CPU sys is less than or equal to 30%.
+Capacity	CPU wait is less than or equal to 5%.
+Capacity	Under normal circumstances, SWAP exchange space utilization is lower than 70%, too much exchange will cause system performance degradation.
+Capacity	Under normal circumstances, the disk busy rate is less than 70%.
+Capacity	The network throughput index mainly refers to the number of megabytes of traffic coming in and going out per second. Generally, it cannot exceed 70% of the maximum transmission capacity of the device or link.
+Capacity	Maxuprc limits the maximum number of user processes for each user to no more than 10.
+Capacity	Max_thread_proc defines the maximum number of threads allowed for each process not to exceed 10.
+Capacity	The maximum physical memory that Filecache_max can be used for cache file I/O is 1024 bytes.
+Capacity	The maximum number of open i-nodes of the HFS file system in Ninode memory No more than 10.
+Capacity	Nkthread limits the number of threads allowed to run at the same time to 20.
+Capacity	Nproc limits the number of processes allowed to run at the same time to 50.
+Capacity	The maximum number of Nstrpty STREAMS-based pseudo terminals (pts) is 100.
+Capacity	The maximum size of the data segment of any user process in Maxdsiz is 2048 bytes.
+Capacity	maxfiles_lim The maximum number of file descriptors per process is hardly limited to 100.
+Capacity	The maximum size of the text segment of any user process of Maxtsiz is 2048 bytes.
+Capacity	The maximum number of system-level System V IPC message queues (IDs) allowed is 300.
+Capacity	Specify the number of telnet device files that the kernel can support incoming telnet sessions as 50.
+Capacity	The number of System V shared memory segment identifiers in the system does not exceed 100.
+Capacity	The garbage collection frequency of the Java virtual machine should reach 200 times per second.
+Capacity	Enter the URL in the browser address bar and press Enter until the user sees the first visual mark of the web page within 3 seconds.
